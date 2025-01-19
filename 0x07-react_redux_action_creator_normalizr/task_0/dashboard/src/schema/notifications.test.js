@@ -7,7 +7,7 @@ describe("Test for Notifications.js", () => {
           guid: "2d8e40be-1c78-4de0-afc9-fcc147afd4d2",
           isRead: true,
           type: "urgent",
-          value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt.",
+          value: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
         },
         {
           guid: "280913fe-38dd-4abd-8ab6-acdb4105f922",
